@@ -99,3 +99,10 @@ The following notebooks show the steps we took in order to reach these findings:
 
 7. Model 3 - predicting traffic accident location using mixed data (satellite imagery and structured data)
 8. Model 4 - predicting serious and fatal traffic accident location using mixed data (satellite imagery and structured data)
+
+## Blog
+
+The following links take you to my blog where I write about how we scraped satellite images for our CNN models and also how we dealt with imbalanced classes for Model 1.
+
+[Predicting Traffic Accidents from Above](https://medium.com/@sabatinochen/predicting-traffic-accidents-from-above-e781a1e8228)
+[Imbalanced Data Problems](https://medium.com/@sabatinochen/imbalanced-data-problems-7ca0baf5f800)
