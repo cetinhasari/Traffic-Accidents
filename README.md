@@ -105,4 +105,6 @@ The following notebooks show the steps we took in order to reach these findings:
 The following links take you to my blog where I write about how we scraped satellite images for our CNN models and also how we dealt with imbalanced classes for Model 1.
 
 [Predicting Traffic Accidents from Above](https://medium.com/@sabatinochen/predicting-traffic-accidents-from-above-e781a1e8228)
+
 [Imbalanced Data Problems](https://medium.com/@sabatinochen/imbalanced-data-problems-7ca0baf5f800)
+
